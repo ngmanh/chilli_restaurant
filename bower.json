@@ -1,0 +1,30 @@
+{
+  "name": "chilli_styleguide",
+  "description": "Chilli Styleguide",
+  "main": "gulpfile.js",
+  "authors": [
+    "ngmanh"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Styleguilde"
+  ],
+  "homepage": "https://github.com/nguyenmanh1507/chilli_styleguide",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "font-awesome": "fontawesome#^4.5.0",
+    "slick-carousel": "^1.5.9",
+    "letteringjs": "^0.7.0",
+    "mixitup": "mixitup2#^2.1.11",
+    "lightbox2": "^2.8.2"
+  },
+  "devDependencies": {}
+}
